@@ -1,0 +1,15 @@
+.box {
+    align-items: center;
+    background-color: black;
+    padding: 40px;
+    color: rgb(6, 243, 164);
+}
+
+.city {
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+.heading {
+    text-align: center;
+}
